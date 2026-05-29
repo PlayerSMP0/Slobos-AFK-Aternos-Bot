@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "elver.aternos.host:64860",
+    "ip": "elver.aternos.host",
     "port": 64860,
     "version": "",
     "try-creative": false
