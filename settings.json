@@ -8,11 +8,11 @@
   "server": {
     "ip": "elver.aternos.host",
     "port": 64860,
-    "version": "",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
         "suuuuuuuuuuuuuuuu",
         "Tum tum tanao",
